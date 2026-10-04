@@ -277,7 +277,7 @@ ESP32_PWM_Control/
 
 # Author
 
-**Surya Mani Bajpai**
+ARHAN
 
 Electronics Engineer • Embedded Systems • IoT • Robotics • PCB Design
 
